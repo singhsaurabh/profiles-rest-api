@@ -71,5 +71,3 @@ class ProfileFeedItem(models.Model):
         """Return the model as a string"""
 
         return self.status_text
-
-    
