@@ -1,3 +1,3 @@
 # Profile Rest API
 
-REST API providing basic functionality using user profile.
+Flask REST API providing basic functionality using user profile.
