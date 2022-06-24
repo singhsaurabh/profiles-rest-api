@@ -1,7 +1,7 @@
 appdirs==1.4.3
 Django==1.11.29
 djangorestframework==3.11.2
-packaging==16.8
+packaging==21.3
 pyparsing==2.2.0
 pytz==2017.3
 six==1.11.0
