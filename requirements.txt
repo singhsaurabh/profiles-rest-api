@@ -3,6 +3,6 @@ Django==1.11.29
 djangorestframework==3.11.2
 packaging==16.8
 pyparsing==2.2.0
-pytz==2017.3
+pytz==2022.7.1
 six==1.11.0
 uWSGI==2.0.15
